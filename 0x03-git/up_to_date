@@ -1,1 +1,4 @@
 cat >> up_to_date
+git pull
+git commit 
+cat >>up_to_date
